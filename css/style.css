@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(202, 203, 203);
+    font-family: serif;
+}
+
+body{
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    border-radius: 300px;
+}
